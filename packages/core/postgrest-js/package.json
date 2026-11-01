@@ -69,7 +69,7 @@
     "type-fest": "^4.32.0",
     "typedoc": "catalog:",
     "typescript": "catalog:",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "engines": {
     "node": ">=20.0.0"
